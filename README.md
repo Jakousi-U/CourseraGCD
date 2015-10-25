@@ -26,7 +26,7 @@ The script does the following:
 <li>Use write.table() with row.name=FALSE to generate the file data/tidyDataSet.txt</li>
 </ol>
 
-Check Code_Bokk.txt for details of the variables in the final data frame.
+Check Code_Book.txt for details of the variables in the final data frame.
 
 <b>Source:</b>
 Jorge L. Reyes-Ortiz(1,2), Davide Anguita(1), Alessandro Ghio(1), Luca Oneto(1) and Xavier Parra(2)
