@@ -1,0 +1,344 @@
+subject
+  Number of the subject. 
+  Data type: Number as character
+  Values: [1,30]
+  
+activity
+  Label of activity.
+  Data type: Character
+  Values: WALKING
+          WALKING_UPSTAIRS
+          WALKING_DOWNSTAIRS
+          SITTING
+          STANDING
+          LAYING
+
+tBodyAcc.mean...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyAcc.mean...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyAcc.mean...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyAcc.std...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyAcc.std...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyAcc.std...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tGravityAcc.mean...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tGravityAcc.mean...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tGravityAcc.mean...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tGravityAcc.std...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tGravityAcc.std...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tGravityAcc.std...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyAccJerk.mean...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyAccJerk.mean...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyAccJerk.mean...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyAccJerk.std...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyAccJerk.std...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyAccJerk.std...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyro.mean...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyro.mean...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyro.mean...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyro.std...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyro.std...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyro.std...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyroJerk.mean...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyroJerk.mean...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyroJerk.mean...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyroJerk.std...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyroJerk.std...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyroJerk.std...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyAccMag.mean..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyAccMag.std..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tGravityAccMag.mean..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tGravityAccMag.std..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyAccJerkMag.mean..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyAccJerkMag.std..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyroMag.mean..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyroMag.std..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyroJerkMag.mean..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+tBodyGyroJerkMag.std..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyAcc.mean...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyAcc.mean...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyAcc.mean...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyAcc.std...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyAcc.std...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyAcc.std...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyAccJerk.mean...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyAccJerk.mean...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyAccJerk.mean...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyAccJerk.std...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyAccJerk.std...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyAccJerk.std...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyGyro.mean...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyGyro.mean...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyGyro.mean...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyGyro.std...X
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyGyro.std...Y
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyGyro.std...Z
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyAccMag.mean..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyAccMag.std..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyBodyAccJerkMag.mean..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyBodyAccJerkMag.std..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyBodyGyroMag.mean..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyBodyGyroMag.std..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+  
+fBodyBodyGyroJerkMag.mean..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
+
+fBodyBodyGyroJerkMag.std..
+  Measurement.
+  Data type: Numeric
+  Values: Normalized and bounded within [-1,1]
